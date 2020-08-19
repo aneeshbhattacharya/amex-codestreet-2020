@@ -177,13 +177,13 @@ def result(request):
                 filename += 1
 
         #counting number of products
-        count = -5
+        count = -7
         for path in pathlib.Path(".").iterdir():
             if path.is_file():
                 count += 1
         #print(count)
-        # x = count + 1
-        x=6
+        x = count + 1
+        
 
         #skew calculation
         p_val = []
