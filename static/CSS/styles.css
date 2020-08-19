@@ -1,0 +1,234 @@
+
+/* Navbar Codes */
+
+.navbar{
+    padding: 0.2% 7%;
+}
+
+#navbar_title{
+    font-size: 3.5rem;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+
+.navbar-color{
+    background-color: black;
+}
+
+/* First Section */
+
+/* @media only screen and (max-width: 955px) {
+    
+    #Optima-title{
+        font-family: 'Electrolize', sans-serif;;
+        font-size: 7rem;
+        font-weight: 800;
+        color: rgb(255, 255, 255);
+    }
+
+  } */
+
+#First-section{
+    background-color: #1B1B1B;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+}
+#Main-heading{   
+   
+    text-align: center;
+}
+#Optima-title{
+    font-family: 'Electrolize', sans-serif;;
+    font-size: 15rem;
+    font-weight: 800;
+    color: rgb(255, 255, 255);
+}
+#Subtitle{
+    font-family: 'Nunito', sans-serif;
+    
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: 	#D3D3D3;
+}
+
+/* SECOND SECTION */
+
+#Second-section{
+    background-color: white;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+#Second-heading{
+
+    text-align: center;
+}
+#About{
+
+    font-family: 'Oswald', sans-serif;
+    font-size: 7.5rem;
+    padding-bottom: 3rem;
+
+}
+#carousel-images{
+    text-align: center;
+    width: 40%;
+    padding-bottom: 2rem;
+}
+#carousel-texts{
+    text-align: center;
+    font-family: "Ubuntu";
+    font-size: 1.5rem;
+    padding-bottom: 1rem;
+}
+.carousel-indicators li {
+    background-color: #999;
+    background-color: rgba(70, 70, 70, 0.25);
+    
+  }
+  
+  .carousel-indicators .active {
+    background-color: #444;
+  }
+
+#carousel-small-tab{
+    padding-top: 3rem;
+    
+}
+
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+/* THIRD SECTION */
+
+#Third-section{
+    background-color: #1B1B1B;
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+}
+
+#Third-heading{
+    text-align: center;
+}
+#how-to{
+    font-family: 'Oswald', sans-serif;
+    font-size: 7rem;
+    padding-bottom: 5rem;
+    color: white;
+}
+.excel-div-b{
+    text-align: center;
+}
+.excel-image{
+    width: 50%;
+    height: 110%;
+}
+
+
+
+#delivery-image-image{
+    width: 50%;
+    margin-left: 7%;
+ 
+}
+
+#Third-section-b{
+
+    background-color: #1B1B1B;
+    padding-bottom: 10rem;
+    padding-top: 5rem;
+    padding-right: 3rem;
+}
+
+
+
+.excel-div-a{
+    padding-left: 5rem;
+    text-align: left;
+
+}
+#excel-heading{
+    color: white;
+    font-family: "Ubuntu";
+    font-size: 1.75rem;
+    padding-bottom: 2rem;
+
+}
+#excel-how{
+    color: white;
+    font-family: "Ubuntu";
+    font-size: 1.5rem;
+    padding-bottom: 4rem;
+}
+#download-button{
+    padding-left: 8rem;
+}
+
+/* FOURTH SECTION */
+
+#Fourth-section{
+    background-color: white;
+    padding-top: 3rem;
+    padding-bottom: 6rem;
+}
+
+#Fourth-heading{
+    text-align: center;
+    padding-bottom: 1rem;
+    
+}
+.fourth-div-a{
+    padding-left: 5rem;
+    text-align: left;
+}
+#fourth-a-text{
+
+    color: black;
+    font-family: "Ubuntu";
+    font-size: 1.5rem;
+    padding-bottom: 4rem;
+}
+
+
+#product-instructions-headings{
+    color: black;
+    font-family: "Ubuntu";
+    font-size: 1.5rem;
+    padding-bottom: 4rem;
+}
+
+
+
+
+
+
+
+
+
+/* SOCIALS SECTION */
+
+#socials{
+    background-color: #1B1B1B;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    text-align: center;
+}
+#socials-content{
+    text-align: center;
+    font-size: 1rem;
+    color: white;
+    font-family: "Ubuntu";
+    
+}
+.social-icon {
+    color: white;
+
+    margin: 20px 10px;
+  }

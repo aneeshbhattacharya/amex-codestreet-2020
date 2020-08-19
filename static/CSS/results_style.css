@@ -1,0 +1,109 @@
+/* 
+NAVBAR */
+.navbar{
+    padding: 0.2% 7%;
+}
+
+#navbar_title{
+    font-size: 3.5rem;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+
+.navbar-color{
+    background-color: black;
+}
+
+/* RESULTS PAGE CSS */
+
+#custom-bar{
+    color: white;
+    padding-left: 3rem;
+    padding-top: 6rem;
+    padding-right: 3rem;
+    padding-bottom: 2rem;
+
+}
+.custom-bar-entry{
+    color: black;
+    text-align: center;
+    font-family: "Ubuntu";
+    font-weight: 300;
+    font-size: 2rem;
+}
+
+/* #custom-bar-div{
+    position: fixed;            HOW TO MAKE THIS DIV STATIC
+} */
+
+
+#results-all{
+    background-color: #1B1B1B;
+    padding-top: 3rem;
+    text-align: center;
+}
+#result-1{
+    text-align: center;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-size: 7rem;
+    padding-bottom: 5rem;
+}
+#result-carousel-texts{
+    color: white;
+    font-family: "Ubuntu";
+    font-size: 1.3rem;
+}
+
+/* CAROUSEL FROM PREVIOUS PAGE */
+
+#carousel-images{
+    text-align: center;
+    width: 40%;
+    padding-bottom: 2rem;
+}
+#carousel-texts{
+    text-align: center;
+    font-family: "Ubuntu";
+    font-size: 1.5rem;
+    padding-bottom: 1rem;
+}
+.carousel-indicators li {
+    background-color: #999;
+    background-color: rgba(70, 70, 70, 0.25);
+    
+  }
+  
+  .carousel-indicators .active {
+    background-color: #444;
+  }
+
+#carousel-small-tab{
+    padding-top: 3rem;
+    
+}
+#result-2{
+    text-align: center;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-size: 7rem;
+    padding-bottom: 5rem;
+    padding-top: 2rem;
+    
+}
+#result-tabs{
+    background-color: #1B1B1B ;
+    padding-top: 5rem;
+}
+#result-button-heading{
+    text-align: center;
+    color: white;
+}
+#result-button-heading{
+    padding-bottom: 3rem;
+    font-family: "Ubuntu";
+}
