@@ -182,11 +182,12 @@ def result(request):
             if path.is_file():
                 count += 1
         #print(count)
-        x = count + 1
+        # x = count + 1
+        x=6
 
         #skew calculation
         p_val = []
-        for i in range(1,6):
+        for i in range(1,x):
             df = pd.DataFrame(pd.read_csv(str(i)+'.csv'))
             val = df.values.tolist()
             #print(val)
