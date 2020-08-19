@@ -1,3 +1,13 @@
 django
 gunicorn
 django-heroku
+xlrd
+pandas
+os
+pathlib
+scipy
+statistics
+matplotlib
+numpy
+csv
+openpyxl
