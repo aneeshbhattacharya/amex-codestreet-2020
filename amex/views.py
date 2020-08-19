@@ -186,7 +186,7 @@ def result(request):
 
         #skew calculation
         p_val = []
-        for i in range(1,x):
+        for i in range(1,6):
             df = pd.DataFrame(pd.read_csv(str(i)+'.csv'))
             val = df.values.tolist()
             #print(val)
