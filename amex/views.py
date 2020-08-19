@@ -19,8 +19,7 @@ def index(request):
     return render (request, 'index.html')
 
 
-def gotoAbout(request):
-    return render (request,'#Second-section')
+
 
 
 # DOWNLOAD OF TEMPLATES
@@ -178,7 +177,7 @@ def result(request):
                 filename += 1
 
         #counting number of products
-        count = -4
+        count = -6
         for path in pathlib.Path(".").iterdir():
             if path.is_file():
                 count += 1

@@ -1,0 +1,13 @@
+Product,Month,Units to order,Order date
+Product_4,Jan,53,order between 25 to last day of previous month
+Product_4,Feb,46,order before 2nd week of current month
+Product_4,Mar,47,order between 25 to last day of previous month
+Product_4,Apr,28,order before 2nd week of current month
+Product_4,May,173,order before 2nd week of current month
+Product_4,Jun,55,order before 2nd week of current month
+Product_4,Jul,61,order before 2nd week of current month
+Product_4,Aug,38,order between 25 to last day of previous month
+Product_4,Sep,59,order before 2nd week of current month
+Product_4,Oct,37,order between 25 to last day of previous month
+Product_4,Nov,81,order before 2nd week of current month
+Product_4,Dec,59,order between 25 to last day of previous month
