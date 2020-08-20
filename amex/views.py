@@ -177,7 +177,7 @@ def result(request):
                 filename += 1
 
         #counting number of products
-        count = -7
+        count = -6
         for path in pathlib.Path(".").iterdir():
             if path.is_file():
                 count += 1
