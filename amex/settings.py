@@ -136,8 +136,8 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 # s3 = boto3.resource(
 #     's3',
-#     aws_access_key_id='AKIAW3HPBTO5T7QVA2OK',
-#     aws_secret_access_key='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',
+#     aws_access_key_id='',
+#     aws_secret_access_key='',
 #     config=Config(signature_version='s3v4')
 # )
 
